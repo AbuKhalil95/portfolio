@@ -55,10 +55,25 @@
     #main > section.three {
       background-color: #ecf1f1;
     }
+    #main > section.three img {
+      box-shadow: 0 0.05em 0.15em 0 rgb(0 0 0);
+    }
+    #paraAbout {
+      background-color: rgba(190, 190, 190, 0.63);
+      box-shadow: 0 0.05em 0.15em 0 rgb(0 0 0, 0.3);
+      padding: 50px;
+      border-radius: 5px;
+    }
+    #paraAbout p {
+      margin-bottom: 0.5em;
+      text-align: justify;
+      color:#2d2d2d;
+    }
 
     #main > section.four {
       background-color: #e8edec;
     }
+
 
 /* Wide */
 
